@@ -56,5 +56,5 @@ You need to have Node.js and npm installed on your machine.
     ```
 The application will be available at `http://localhost:5173`.
 
-## 🖼️ Screenshots
+
 
